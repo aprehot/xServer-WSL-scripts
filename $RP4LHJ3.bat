@@ -1,0 +1,1 @@
+wscript C:\runHidden.vbs bash -c "DISPLAY=:0 terminator -u"
